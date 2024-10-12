@@ -1,5 +1,3 @@
-## Gustavo Cruz
-
 - 🔭 Atualmente, trabalho na Modaxo Brasil como Dev
 - 📫 Estudo Pós Graduação em Desenvolvimento Web Full Stack PUC/MG
 - 😄 Meus pronomes: ele/dele
